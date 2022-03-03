@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on making a site to play any games in school
+- 🔭 I’m currently working on making a site to bypass over restrictive filters
 - 🌱 I’m currently learning/need help with javascript
 - 📫 How to reach me: If you are looking here you already know how
-- 😄 Pronouns: He:Him
-- ⚡ Fun fact: Your gay
+- 😄 Pronouns: Pronoun's are dumb
+- ⚡ Fun fact: Your a idiot
+- 🏞️ Helpful Tip: If you need a project (website) to be done contact me and i will see what i can do
 
